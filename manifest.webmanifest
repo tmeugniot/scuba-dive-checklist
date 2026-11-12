@@ -1,0 +1,17 @@
+{
+  "name": "Scuba Diving — Dive Day Checklist",
+  "short_name": "Dive Day",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eff6f7",
+  "theme_color": "#0d5765",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
